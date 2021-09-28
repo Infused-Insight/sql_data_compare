@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.python-version
+
+# OS
+.DS_Store
+*.swp
+*.swo
+
+# Editor
+sftp-config.json
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints

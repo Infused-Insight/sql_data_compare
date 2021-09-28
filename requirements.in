@@ -1,0 +1,13 @@
+# I added some options to the `all_mismatch()` method that aren't 
+# available in the pip repository yet.
+datacompy @ git+https://github.com/infused-kim/datacompy@580e5b28cd36e86949d6403dccfb0a7e4b15acc5
+
+# SQL Alchemy to load data through SQL into the DB.
+# Add other DB modules that you need.
+sqlalchemy
+pyodbc
+
+pandas
+jupyter
+ipykernel
+keyring
